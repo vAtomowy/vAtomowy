@@ -1,8 +1,7 @@
 
 <h1 style="text-align: center;">Welcome to my git 👋</h1>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2 style="text-align: center;">Please visit my website: https://embedberight.com/ </h2>
+<h2 style="text-align: center;"> Please visit my website: https://embedberight.com/ </h2>
 <p>&nbsp;</p>
 <h2>🔭 I&rsquo;m currently working on:</h2>
 <img src="svg2.svg" style="width: 22vw; min-width: 200px;" />

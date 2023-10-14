@@ -1,8 +1,9 @@
 
 <h1 style="text-align: center;">Welcome to my git 👋</h1>
 <p>&nbsp;</p>
-<h2>🔭 I&rsquo;m currently working on:</h2>
-<img src="svg2.svg" style="width: 22vw; min-width: 200px;" />
+<h2 style="text-align: center;"> Please visit my website: https://embedberight.com/ </h2>
+<p>&nbsp;</p>
+<h2>🔭 I&rsquo;m currently working on: 12x12 LED MATRIX</h2>
 <p>&nbsp;</p>
 <h2>🌱 I&rsquo;m currently learning:&nbsp;</h2>
 <h3><strong>&nbsp; &nbsp; <span style="color: #ff0000;">1. ARM microcontrollers (90% of power)</span> 😎</strong></h3>
